@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @injamul007
-- 👀 I’m interested in Coding and Problem solving 
-- 🌱 I’m currently learning Javascripts
+- 👀 I’m interested in Coding and Problem Solving 
+- 🌱 I’m currently learning JavaScripts
 - 💞️ I’m looking to collaborate on Any Frontend Projects
 - 📫 How to reach me injamul007hoque@gmail.com
 - ⚡ Fun fact: I love Bugs
