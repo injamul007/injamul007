@@ -20,7 +20,7 @@ I'm a passionate MERN Stack Developer who enjoys creating clean, scalable, and u
 - 🌱 I’m currently learning **React.js , Node.js, Express.js and MongoDB**
 - 👯 I’m looking to collaborate on **any frontend project**
 - 💬 Ask me about **MERN Stack (JS, ReactJS, NodeJS, ExpressJS, MongoDB, Git)**
-- 📫 Feel free to reach me out **Email - injamul007hoque@gmail.com**
+- 📫 Feel free to reach me out **[Email](mailto:injamul1212@gmail.com)**
 
   <br/>
 
