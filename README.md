@@ -1,26 +1,30 @@
 ![Banner](./GITHUB_PROFILE.png)
 
 <h1 align="center">Hi 👋, I'm Injamul Hoque</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00A8FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Passionate+Web+Developer;Passionate+About+Learning+New+Tech" />
+</p>
 
 ## 🧑‍💻 About Me
 
-I'm a passionate developer who enjoys creating clean, scalable, and user‑friendly interfaces. I’m constantly improving my skills and working on real‑world projects.
+I'm a passionate MERN Stack Developer who enjoys creating clean, scalable, and user‑friendly interfaces. I’m constantly improving my skills and working on real‑world projects.
 
 
-- 🔭 I’m currently working on **React.js, node.js**
+<br/>
 
-- 🌱 I’m currently learning **React.js , Node.js and MongoDB**
 
+<!--- about --->
+- 👋 Hi, I’m **[@injamul007](https://github.com/injamul007)**
+- 🔭 I’m currently working on **a React.js Project name zapShift delivery**
+- 🌱 I’m currently learning **React.js , Node.js, Express.js and MongoDB**
 - 👯 I’m looking to collaborate on **any frontend project**
+- 💬 Ask me about **MERN Stack (JS, ReactJS, NodeJS, ExpressJS, MongoDB, Git)**
+- 📫 Feel free to reach me out **[Email](injamul007hoque@gmail.com)**
 
-- 🤝 I’m looking for help with **any Open Source contribution**
+  <br/>
 
-- 💬 Ask me about **MERN Stack (JS, ReactJS, NodeJS, ExpressJS, MongoDB)**
-
-- 📫 Feel free to reach me out **injamul007hoque@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 <p align="left">
 <a href="https://dev.to/https://dev.to/injamul_hoque_cb5d3622b7f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/injamul_hoque_cb5d3622b7f" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/injamulhoque007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/injamulhoque007/" height="30" width="40" /></a>
@@ -28,8 +32,41 @@ I'm a passionate developer who enjoys creating clean, scalable, and user‑frien
 <a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br/>
+
+<!--- technology --->
+##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript)](https://github.com/injamul007)
+
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/injamul007)
+
+### JavaScript Frameworks & Libraries:
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)](https://github.com/injamul007)
+
+### Database & Model:
+[![Database & Model](https://skillicons.dev/icons?i=mongodb)](https://github.com/injamul007)
+
+### Deployment Platform:
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/injamul007)
+
+### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=ps)](https://github.com/injamul007)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode,postman)](https://github.com/injamul007)
+
+<br/>
+
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+
+### GitHub Contributions:
+![Snake Grid](https://github.com/injamul007/contribution-snake/blob/output/grid.svg)
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=injamul007&show_icons=true&locale=en&layout=compact" alt="injamul007" /></p>
 
