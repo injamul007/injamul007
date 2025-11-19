@@ -64,7 +64,7 @@ I'm a passionate MERN Stack Developer who enjoys creating clean, scalable, and u
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Contributions:
-![Snake Grid](https://github.com/injamul007/contribution-snake/blob/output/grid.svg)
+![Snake Grid](https://github.com/injamul007/injamul007/blob/output/grid-dark.svg)
 
 
 
