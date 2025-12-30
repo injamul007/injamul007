@@ -24,7 +24,7 @@ I'm a passionate Junior MERN Stack Developer who enjoys creating clean, scalable
 
   <br/>
 
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> REACH ME OUT:</b>
 <p align="left">
 <a href="https://dev.to/https://dev.to/injamul_hoque_cb5d3622b7f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/injamul_hoque_cb5d3622b7f" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/injamulhoque007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/injamulhoque007/" height="30" width="40" /></a>
@@ -77,3 +77,11 @@ I'm a passionate Junior MERN Stack Developer who enjoys creating clean, scalable
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=injamul007&show_icons=true&locale=en" alt="injamul007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=injamul007&" alt="injamul007" /></p>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=injamul007&layout=compact&v=1)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=injamul007&show_icons=true&v=2)
+
+![Profile Views](https://komarev.com/ghpvc/?username=injamul007&label=Profile%20views)
+
