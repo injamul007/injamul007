@@ -34,6 +34,13 @@ I'm a passionate Junior MERN Stack Developer who enjoys creating clean, scalable
 
 <br/>
 
+
+# Test
+
+![Test](https://komarev.com/ghpvc/?username=injamul007)
+
+<br/>
+
 <!--- technology --->
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
@@ -84,4 +91,10 @@ I'm a passionate Junior MERN Stack Developer who enjoys creating clean, scalable
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=injamul007&show_icons=true&v=2)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=injamul007&label=Profile%20views)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=injamul007&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=injamul007&layout=compact)
+
 
