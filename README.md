@@ -24,6 +24,10 @@ I'm a passionate Junior MERN Stack Developer who enjoys creating clean, scalable
 
   <br/>
 
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=injamul007&" alt="injamul007" /></p>
+
+  <br/>
+
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> REACH ME OUT:</b>
 <p align="left">
 <a href="https://dev.to/https://dev.to/injamul_hoque_cb5d3622b7f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/injamul_hoque_cb5d3622b7f" height="30" width="40" /></a>
@@ -65,7 +69,4 @@ I'm a passionate Junior MERN Stack Developer who enjoys creating clean, scalable
 
 ### GitHub Contributions:
 ![Snake Grid](https://github.com/injamul007/injamul007/blob/output/grid-dark.svg)
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=injamul007&" alt="injamul007" /></p>
 
