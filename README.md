@@ -15,16 +15,14 @@ I'm a passionate Junior MERN Stack Developer who enjoys creating clean, scalable
 
 
 <!--- about --->
+## 👀 Current Overview
+
 - 👋 Hi, I’m **[@injamul007](https://github.com/injamul007)**
 - 🔭 I’m currently working on **a React.js Project name zapShift delivery**
 - 🌱 I’m currently learning **React.js , Node.js, Express.js and MongoDB**
 - 👯 I’m looking to collaborate on **any frontend project**
 - 💬 Ask me about **MERN Stack (JS, ReactJS, NodeJS, ExpressJS, MongoDB, Git)**
 - 📫 Feel free to reach me out **[Email](injamul007hoque@gmail.com)**
-
-  <br/>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=injamul007&" alt="injamul007" /></p>
 
   <br/>
 
@@ -69,4 +67,16 @@ I'm a passionate Junior MERN Stack Developer who enjoys creating clean, scalable
 
 ### GitHub Contributions:
 ![Snake Grid](https://github.com/injamul007/injamul007/blob/output/grid-dark.svg)
+
+
+## 📈 Current Stats
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=injamul007&" alt="injamul007" /></p>
+
+
+## 👀 Profile Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=injamul007&label=Profile%20views)
+![Followers](https://img.shields.io/github/followers/injamul007?label=Followers)
+![Stars](https://img.shields.io/github/stars/injamul007?label=Stars)
 
