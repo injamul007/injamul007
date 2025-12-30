@@ -20,7 +20,7 @@ I'm a passionate Junior MERN Stack Developer who enjoys creating clean, scalable
 - 🌱 I’m currently learning **React.js , Node.js, Express.js and MongoDB**
 - 👯 I’m looking to collaborate on **any frontend project**
 - 💬 Ask me about **MERN Stack (JS, ReactJS, NodeJS, ExpressJS, MongoDB, Git)**
-- 📫 Feel free to reach me out **[Email](mailto:injamul1212@gmail.com)**
+- 📫 Feel free to reach me out **[Email](injamul007hoque@gmail.com)**
 
   <br/>
 
@@ -31,13 +31,6 @@ I'm a passionate Junior MERN Stack Developer who enjoys creating clean, scalable
 <a href="https://fb.com/https://www.facebook.com/injamul.007.hoque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/injamul.007.hoque/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
 </p>
-
-<br/>
-
-
-# Test
-
-![Test](https://komarev.com/ghpvc/?username=injamul007)
 
 <br/>
 
@@ -74,27 +67,5 @@ I'm a passionate Junior MERN Stack Developer who enjoys creating clean, scalable
 ![Snake Grid](https://github.com/injamul007/injamul007/blob/output/grid-dark.svg)
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=injamul007&show_icons=true&locale=en&layout=compact" alt="injamul007" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=injamul007&label=Profile%20views&color=0e75b6&style=flat" alt="injamul007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=injamul007" alt="injamul007" /></a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=injamul007&show_icons=true&locale=en" alt="injamul007" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=injamul007&" alt="injamul007" /></p>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=injamul007&layout=compact&v=1)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=injamul007&show_icons=true&v=2)
-
-![Profile Views](https://komarev.com/ghpvc/?username=injamul007&label=Profile%20views)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=injamul007&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=injamul007&layout=compact)
-
 
