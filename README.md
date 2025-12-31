@@ -18,12 +18,15 @@ I'm a passionate Junior MERN Stack Developer who enjoys creating clean, scalable
 ## 👀 Current Overview
 
 - 👋 Hi, I’m **[@injamul007](https://github.com/injamul007)**
-- 🔭 I’m currently working on **a React.js Project name (zapShift delivery)**
-- 🌱 I’m currently learning **React.js , Node.js, Express.js and MongoDB**
-- 👯 I’m looking to collaborate on **any frontend project**
-- 💬 Ask me about **MERN Stack (JS, ReactJS, NodeJS, ExpressJS, MongoDB, Git)**
-- 📫 Reach me at: **[Email](mailto:injamul007hoque@gmail.com)**
+- 🔭 I’m currently working on **zapShift Delivery (React.js Project)**
+- 🌱 I’m currently learning **React.js, Node.js, Express.js, MongoDB**
+- 👯 I’m looking to collaborate on **frontend projects**
+- 💬 Ask me about **JavaScript, React, basic Node & Express**
+- 📫 Reach me at: [injamul007hoque@gmail.com](mailto:injamul007hoque@gmail.com)
 
+### 🚀 Current Activities
+- Exploring **Next.js** for better performance and routing
+- Working on a **Kids Toys E-commerce Website** project
 
 
   <br/>
