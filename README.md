@@ -33,9 +33,9 @@ I'm a passionate Junior MERN Stack Developer who enjoys creating clean, scalable
 
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> REACH ME OUT:</b>
 <p align="left">
-<a href="https://dev.to/https://dev.to/injamul_hoque_cb5d3622b7f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/injamul_hoque_cb5d3622b7f" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/injamulhoque007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/injamulhoque007/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/injamul.007.hoque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/injamul.007.hoque/" height="30" width="40" /></a>
+<a href="https://dev.to/injamul_hoque_cb5d3622b7f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/injamul_hoque_cb5d3622b7f" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/injamulhoque007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/injamulhoque007/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/injamul.007.hoque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/injamul.007.hoque/" height="30" width="40" /></a>
 </p>
 
 <br/>
