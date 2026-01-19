@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate Junior MERN Stack Developer who enjoys creating clean, scalable, and user‑friendly interfaces. I’m constantly improving my skills and working on real‑world projects.
+I'm a passionate Junior MERN Stack Developer(Frontend Focused) who enjoys creating clean, scalable, and user‑friendly interfaces. I’m constantly improving my skills and working on real‑world projects.
 
 
 <br/>
