@@ -1,6 +1,6 @@
 ![Banner](./GITHUB_PROFILE.png)
 
-<h1 align="center">Hi 👋, I'm Injamul Hoque</h1>
+<h1 align="center">Hi 👋, I'm Md. Injamul Hoque Tonmoy</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00A8FF&center=true&vCenter=true&width=600&lines=Junior+MERN+Stack+Developer;Passionate+Web+Developer;Passionate+About+Learning+New+Tech" />
