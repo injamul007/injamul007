@@ -26,7 +26,7 @@ I'm a passionate Junior MERN Stack Developer (Frontend Focused) who enjoys creat
 
 ### 🚀 Current Activities
 - Exploring **Next.js** for better performance and routing
-- Working on a **Kids Toys E-commerce Website** project
+- Working on a **Hero Kidz E-commerce Website** project
 
 
   <br/>
